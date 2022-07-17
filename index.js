@@ -10,6 +10,6 @@ function push( ) {
 
 }
 
-function pop( ) {
-        insertPoint.re();
-}
+// function pop( ) {
+//         insertPoint.removeChild();
+// }
