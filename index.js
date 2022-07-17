@@ -10,6 +10,7 @@ function push( ) {
 
 }
 
-// function pop( ) {
-//         insertPoint.removeChild();
-// }
+function pop( ) {
+    let insertPoint2 = document.querySelector('.stack');
+    insertPoint2.removeChild(insertPoint2.firstChild);
+}
